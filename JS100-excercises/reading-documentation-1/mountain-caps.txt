@@ -1,0 +1,9 @@
+There is no inbuilt method, but there are somewhat convoluted work arounds.
+
+First use the string method charAt() to save the first character of the string to s new variable.
+
+Thenyou assign a new variable to the ressult of using the toUpperCase method.
+
+Now you can use the slice method with 1 as a parameter to get the rest of the word except the first letter.
+
+Now you add the capitalized letter to the rest of the word and assign it to a new variable.

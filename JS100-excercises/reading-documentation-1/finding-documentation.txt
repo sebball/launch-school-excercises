@@ -1,0 +1,2 @@
+//The most comprehenive source seems to be the MDN website, although it can be slightly dry. Other good but more informal sources are other books, websites such as
+// geeksforgeeks, weschool and freecodeacademy.

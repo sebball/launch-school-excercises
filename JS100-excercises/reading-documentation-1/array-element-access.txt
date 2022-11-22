@@ -1,0 +1,1 @@
+We would use numerical indexing. Because array indexes start at 0, the second elemnt 'and' could be acccessed with the [1] notation after the array.

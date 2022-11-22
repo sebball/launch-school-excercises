@@ -1,0 +1,1 @@
+Attempting to acces an array by index that is out of the range the array seems to always return an undefined value.

@@ -1,0 +1,9 @@
+According to what I read on the MDN documentation page the return values would be as follows.
+
+
+typeof 23.5; Number
+typeof 'Call me Ishmael.'; String
+typeof false; Boolean
+typeof 0; Number
+typeof null; Object
+typeof undefined; undefined

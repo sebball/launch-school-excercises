@@ -1,0 +1,1 @@
+Yes, it does. It is a method of string variables called toLowerCase(). It does not mutate the original string. 
