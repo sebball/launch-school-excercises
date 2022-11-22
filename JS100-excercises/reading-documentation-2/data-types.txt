@@ -1,0 +1,10 @@
+The seven primitive data types are:
+
+
+    Number
+    BigInt
+    Boolean
+    String
+    Symbol
+    null
+    Undefined

@@ -1,0 +1,4 @@
+by using String.prototype.concat() which is invoked on a string. It expects two arguments, a seperator and the second string to be added.
+
+
+You can also use the plus operator.

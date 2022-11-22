@@ -1,0 +1,6 @@
+today.getFullYear() returns the full four digit year.
+
+Date.prototype.getYear() returns a number representing the year of the date on which it is invoked, minus 1900.
+For example, if the date is sometime in 2019, getYear() will return 119.
+
+We should mostly use getFullYear()

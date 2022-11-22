@@ -1,0 +1,3 @@
+typeof tweet;  String
+typeof words;  Object
+typeof isValid; Boolean

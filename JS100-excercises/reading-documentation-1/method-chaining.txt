@@ -1,0 +1,5 @@
+let tweet = 'Starting to get the hang of it... #javascript #launchschool';
+
+tweet.split(' '); An array with each of the individual words in the sentences, as dictated by the position of a space.
+tweet.split(' ').reverse(); Thsi will return a reference to the same array but with the order of elements reversed
+tweet.split(' ').reverse().join(' '); THis will return a string with all the reversed elements joined and seperated by a space
